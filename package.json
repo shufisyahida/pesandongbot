@@ -1,0 +1,16 @@
+{
+  "name": "PesanDong",
+  "version": "1.0.0",
+  "description": "Telegram bot untuk pesan makanan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "supikinzi",
+  "license": "ISC",
+  "dependencies": {
+    "telegram-node-bot": "^3.0.12"
+  }
+}
